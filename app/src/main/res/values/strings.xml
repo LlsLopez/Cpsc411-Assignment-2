@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleHttpClient</string>
+    <string name="claim_title">Claim Title</string>
+    <string name="date">Date</string>
+    <string name="please_enter_claim_information">Please Enter Claim Information</string>
+    <string name="add">Add</string>
+    <string name="status">Status:</string>
+</resources>
